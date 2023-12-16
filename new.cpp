@@ -11,3 +11,7 @@ int add(int a,int b){
 int devide(int a,int b){
     int c = return a/b;
 }
+
+int subtreact(){
+    return a-b;
+}
