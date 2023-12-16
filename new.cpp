@@ -15,3 +15,5 @@ int devide(int a,int b){
 int subtreact(){
     return a-b;
 }
+
+int new;
